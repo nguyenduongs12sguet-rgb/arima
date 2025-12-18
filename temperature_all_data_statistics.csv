@@ -1,6 +1,6 @@
-,Average Mean Surface Air Temperature (Annual Mean °C),Average Temperature by Country (°C),Temperature Deviation (°C)
-mean,9.25686595342983,9.288356324732536,-0.03148829452485841
-median,9.7,9.7775,-0.0341
-std,3.5735415189539506,3.4804521197000424,0.8131577096075091
-max,17.06,15.5805,2.2709
-min,-0.64,1.7717,-2.5891
+﻿,Average Mean Surface Air Temperature (Annual Mean )
+mean,9.26
+median,9.7
+std,3.57
+max,17.06
+min,-0.64
